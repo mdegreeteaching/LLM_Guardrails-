@@ -1,0 +1,7 @@
+pydantic
+instructor
+openai
+groq
+guardrails-ai
+guardrails-ai-detect-pii
+guardrails-ai-detect-pii
